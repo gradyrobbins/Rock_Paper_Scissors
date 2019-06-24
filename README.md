@@ -2,7 +2,7 @@
 
 
 ###### Choose wisely
-![img/roshambo.png]
+![screenshot](img/roshambo.png)
 
 ### Vanilla JS , HTML, CSS
 
